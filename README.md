@@ -3,8 +3,8 @@
 
 ## Execução dos testes
 
-
 ## Dúvidas
+- Sem dúvidas excelente explicação
 
 ## Feedback
 ### 1 ponto a melhorar --> Substituir a palavra automatizados por unitários
